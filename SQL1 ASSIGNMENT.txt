@@ -1,0 +1,5 @@
+ANS 1. select FIRST_NAME AS WORKER_NAME from Worker
+
+ANS 2. SELECT DISTINCT DEPARTMENT FROM WORKER.
+
+ANS 3. select TOP 5 from users order by user_id DESC.
